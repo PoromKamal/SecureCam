@@ -1,6 +1,6 @@
 # SecureCam
 
-SecureCam is a security camera feature made with python, which implements CascadeCalssifier face, and body recogntion, from OpenCV, into a security camera.
+SecureCam is a security camera feature made with python, which implements CascadeClassifier face, and body recogntion, from OpenCV, into a security camera.
 
 To use, just download the code, and hit run.
 
